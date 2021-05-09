@@ -1,6 +1,7 @@
 package com.company;
-
+//test
 public class MyArrayDataException extends Exception {
+    
     
     public int i;
     public int j;

@@ -1,7 +1,7 @@
 package com.company;
-
+//test
 public class Main {
-    
+
     public static void main(String[] args) {
     
 	// 1. Напишите метод, на вход которого подаётся двумерный строковый массив размером 4х4,
